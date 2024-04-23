@@ -253,6 +253,6 @@ By adopting a 3-tier architecture with Docker, we've created a scalable and resi
 
 ---
 
-### Name: Raj Randive (21BCP378)
+### Name: Charmi Naik (21BCP283)
 
 _Written on April 23, 2024_
